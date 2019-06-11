@@ -6,29 +6,33 @@ what is a function?
 
 # 01 Functions basics (two ways to declare functions)
 
-- 01 Traditional Declarations
-- 02 Definition Expressions
+- 1. Traditional Declarations
+- 2. Definition Expressions
 
 - function Invocation {4 ways of invoking functions}
 
-- 01 Functions
-- 02 Methods
-- 03 Contructors
-- 04 Call & apply methods
+- 1. Functions
+- 2. Methods
+- 3. Contructors
+- 4. Call & apply methods
 
 # 02 Function Invocation
 
-- 01 Using Functions as objects
-- 02 Invoking instances through the constructor
-- 03 Expanding functionality through prototype
-- 04 Understanding call-and apply invocation
-- 05 Using the arguments parameter
-- 06 Returning values
-- 07 Challenge: Social media navigation
-- 08 Solution: Social media navbar
+- 1. Using Functions as objects
+- 2. Invoking instances through the constructor
+- 3. Expanding functionality through prototype
+- 4. Understanding call-and apply invocation
+- 5. Using the arguments parameter
+- 6. Returning values
+- 7. Challenge: Social media navigation
+- 8. Solution: Social media navbar
 
 # 03 Using Functions
 
 - 1.  anonymous closures
 - 2.  Understanding hoisting and variable scope
--
+- 3. anonymous closures
+- 4. Understanding hoisting and variable scope
+- 5. Creating and namespacing modules
+- 6. Passing arguments and setting module defaults
+- 7. Chaining module method calls

@@ -16,4 +16,15 @@ what is a function?
 - 03 Contructors
 - 04 Call & apply methods
 
-# 02
+# 02 Function Invocation
+
+- 01 Using Functions as objects
+- 02 Invoking instances through the constructor
+- 03 Expanding functionality through prototype
+- 04 Understanding call-and apply invocation
+- 05 Using the arguments parameter
+- 06 Returning values
+- 07 Challenge: Social media navigation
+- 08 Solution: Social media navbar
+
+# 03 Using Functions

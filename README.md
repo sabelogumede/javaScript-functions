@@ -28,3 +28,7 @@ what is a function?
 - 08 Solution: Social media navbar
 
 # 03 Using Functions
+
+- 1.  anonymous closures
+- 2.  Understanding hoisting and variable scope
+-
